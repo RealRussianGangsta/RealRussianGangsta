@@ -14,7 +14,9 @@ I am a web designer with experience in designing and developing responsive websi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=figma)
+
 
 ### My contacts
 
-![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)
+![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)(https://t.me/RealRussianGangsta)
