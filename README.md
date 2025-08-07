@@ -18,5 +18,6 @@ I am a web designer with experience in designing and developing responsive websi
 
 
 ### My contacts
-
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/RealRussianGangsta)
+<!-- [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)] -->
+https://t.me/RealRussianGangsta
++374(98)31-01-34
